@@ -4,3 +4,6 @@ In the teacher load assignment problem, we are given a set of N teachers and a s
 
 TeachSync automates the process of assigning teachers to courses by modeling a graph, with nodes representing teachers and courses, and edges representing the capacity or workload limits. 
 It utilizes the Ford Fulkerson algorithm, a graph-based algorithm, to determine the maximum flow in a network and concepts of File Handling.
+
+
+To know more, please open REPORT.pdf
